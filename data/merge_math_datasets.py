@@ -1,7 +1,3 @@
-"""
-DISCLOSURE: This script was written partially with the assistance of Cursor.
-"""
-
 import pandas as pd
 import os
 import json
