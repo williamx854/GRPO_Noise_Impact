@@ -1,7 +1,3 @@
-"""
-DISCLOSURE: This script was written partially with the assistance of Cursor.
-"""
-
 from vllm import LLM, SamplingParams
 from typing import List, Callable, Dict
 import torch
