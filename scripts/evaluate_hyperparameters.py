@@ -1,7 +1,3 @@
-"""
-DISCLOSURE: This script was written partially with the assistance of Cursor.
-"""
-
 import torch
 from vllm import LLM, SamplingParams
 from vllm.lora.request import LoRARequest
